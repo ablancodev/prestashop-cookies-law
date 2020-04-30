@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cookieslaw</name>
+    <displayName><![CDATA[Prestashop Cookies Law]]></displayName>
+    <version><![CDATA[1.4]]></version>
+    <description><![CDATA[According with 2012 European cookies law: Shows a text that explains that cookies are placed on the visitor&#039;s computer.]]></description>
+    <author><![CDATA[eggemplo]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
